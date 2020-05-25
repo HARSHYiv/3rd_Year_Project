@@ -66,7 +66,7 @@
             this.btnMinimize.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnMinimize.Font = new System.Drawing.Font("Century Gothic", 16F);
             this.btnMinimize.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.btnMinimize.Location = new System.Drawing.Point(307, -20);
+            this.btnMinimize.Location = new System.Drawing.Point(307, -13);
             this.btnMinimize.Name = "btnMinimize";
             this.btnMinimize.Size = new System.Drawing.Size(30, 54);
             this.btnMinimize.TabIndex = 11;
