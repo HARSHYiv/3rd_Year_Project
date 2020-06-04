@@ -1,0 +1,39 @@
+C:\Users\kingc\Source\Repos\SVFDemoUI\bin\Debug\SVFDemoUI.exe.config
+C:\Users\kingc\Source\Repos\SVFDemoUI\bin\Debug\SVFDemoUI.exe
+C:\Users\kingc\Source\Repos\SVFDemoUI\bin\Debug\SVFDemoUI.pdb
+C:\Users\kingc\Source\Repos\SVFDemoUI\obj\Debug\SVFDemoUI.csprojAssemblyReference.cache
+C:\Users\kingc\Source\Repos\SVFDemoUI\obj\Debug\SVFDemoUI.frmLogin.resources
+C:\Users\kingc\Source\Repos\SVFDemoUI\obj\Debug\SVFDemoUI.Properties.Resources.resources
+C:\Users\kingc\Source\Repos\SVFDemoUI\obj\Debug\SVFDemoUI.csproj.GenerateResource.cache
+C:\Users\kingc\Source\Repos\SVFDemoUI\obj\Debug\SVFDemoUI.csproj.CoreCompileInputs.cache
+C:\Users\kingc\Source\Repos\SVFDemoUI\obj\Debug\SVFDemoUI.exe
+C:\Users\kingc\Source\Repos\SVFDemoUI\obj\Debug\SVFDemoUI.pdb
+C:\Users\kingc\Source\Repos\SVFDemoUI\obj\Debug\SVFDemoUI.frmMain.resources
+C:\Users\kingc\Source\Repos\SVFDemoUI\obj\Debug\SVFDemoUI.frmCropSelection.resources
+C:\Users\kingc\Source\Repos\SVFDemoUI\obj\Debug\SVFDemoUI.frmRegister.resources
+C:\Users\kingc\Desktop\vertical farm style guid\Smart Vertical Farming_UI Template & Style Guide\SVFDemoUI\bin\Debug\SVFDemoUI.exe.config
+C:\Users\kingc\Desktop\vertical farm style guid\Smart Vertical Farming_UI Template & Style Guide\SVFDemoUI\bin\Debug\SVFDemoUI.exe
+C:\Users\kingc\Desktop\vertical farm style guid\Smart Vertical Farming_UI Template & Style Guide\SVFDemoUI\bin\Debug\SVFDemoUI.pdb
+C:\Users\kingc\Desktop\vertical farm style guid\Smart Vertical Farming_UI Template & Style Guide\SVFDemoUI\obj\Debug\SVFDemoUI.csprojAssemblyReference.cache
+C:\Users\kingc\Desktop\vertical farm style guid\Smart Vertical Farming_UI Template & Style Guide\SVFDemoUI\obj\Debug\SVFDemoUI.frmCropSelection.resources
+C:\Users\kingc\Desktop\vertical farm style guid\Smart Vertical Farming_UI Template & Style Guide\SVFDemoUI\obj\Debug\SVFDemoUI.frmLogin.resources
+C:\Users\kingc\Desktop\vertical farm style guid\Smart Vertical Farming_UI Template & Style Guide\SVFDemoUI\obj\Debug\SVFDemoUI.frmMain.resources
+C:\Users\kingc\Desktop\vertical farm style guid\Smart Vertical Farming_UI Template & Style Guide\SVFDemoUI\obj\Debug\SVFDemoUI.frmRegister.resources
+C:\Users\kingc\Desktop\vertical farm style guid\Smart Vertical Farming_UI Template & Style Guide\SVFDemoUI\obj\Debug\SVFDemoUI.Properties.Resources.resources
+C:\Users\kingc\Desktop\vertical farm style guid\Smart Vertical Farming_UI Template & Style Guide\SVFDemoUI\obj\Debug\SVFDemoUI.csproj.GenerateResource.cache
+C:\Users\kingc\Desktop\vertical farm style guid\Smart Vertical Farming_UI Template & Style Guide\SVFDemoUI\obj\Debug\SVFDemoUI.csproj.CoreCompileInputs.cache
+C:\Users\kingc\Desktop\vertical farm style guid\Smart Vertical Farming_UI Template & Style Guide\SVFDemoUI\obj\Debug\SVFDemoUI.exe
+C:\Users\kingc\Desktop\vertical farm style guid\Smart Vertical Farming_UI Template & Style Guide\SVFDemoUI\obj\Debug\SVFDemoUI.pdb
+D:\Harshy\Documents\GITProjects\3rd_Year_Project\bin\Debug\SVFDemoUI.exe.config
+D:\Harshy\Documents\GITProjects\3rd_Year_Project\bin\Debug\SVFDemoUI.exe
+D:\Harshy\Documents\GITProjects\3rd_Year_Project\bin\Debug\SVFDemoUI.pdb
+D:\Harshy\Documents\GITProjects\3rd_Year_Project\obj\Debug\SVFDemoUI.csprojAssemblyReference.cache
+D:\Harshy\Documents\GITProjects\3rd_Year_Project\obj\Debug\SVFDemoUI.frmCropSelection.resources
+D:\Harshy\Documents\GITProjects\3rd_Year_Project\obj\Debug\SVFDemoUI.frmLogin.resources
+D:\Harshy\Documents\GITProjects\3rd_Year_Project\obj\Debug\SVFDemoUI.frmMain.resources
+D:\Harshy\Documents\GITProjects\3rd_Year_Project\obj\Debug\SVFDemoUI.frmRegister.resources
+D:\Harshy\Documents\GITProjects\3rd_Year_Project\obj\Debug\SVFDemoUI.Properties.Resources.resources
+D:\Harshy\Documents\GITProjects\3rd_Year_Project\obj\Debug\SVFDemoUI.csproj.GenerateResource.cache
+D:\Harshy\Documents\GITProjects\3rd_Year_Project\obj\Debug\SVFDemoUI.csproj.CoreCompileInputs.cache
+D:\Harshy\Documents\GITProjects\3rd_Year_Project\obj\Debug\SVFDemoUI.exe
+D:\Harshy\Documents\GITProjects\3rd_Year_Project\obj\Debug\SVFDemoUI.pdb
