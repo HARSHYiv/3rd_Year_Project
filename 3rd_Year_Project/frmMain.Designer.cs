@@ -44,7 +44,6 @@
             this.label11 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
             this.pnlMenu = new System.Windows.Forms.Panel();
             this.pnlUser = new System.Windows.Forms.Panel();
             this.label7 = new System.Windows.Forms.Label();
@@ -59,6 +58,7 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.lblName = new System.Windows.Forms.Label();
             this.pnlbottom = new System.Windows.Forms.Panel();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
             this.panel4.SuspendLayout();
@@ -228,17 +228,6 @@
             this.label10.Size = new System.Drawing.Size(98, 40);
             this.label10.TabIndex = 0;
             this.label10.Text = "00.00";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.BackColor = System.Drawing.Color.Transparent;
-            this.label2.Font = new System.Drawing.Font("Century Gothic", 16F);
-            this.label2.Location = new System.Drawing.Point(327, 65);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(126, 25);
-            this.label2.TabIndex = 11;
-            this.label2.Text = "Plant Type";
             // 
             // pnlMenu
             // 
@@ -411,16 +400,24 @@
             this.pnlbottom.Size = new System.Drawing.Size(704, 10);
             this.pnlbottom.TabIndex = 14;
             // 
+            // comboBox1
+            // 
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Location = new System.Drawing.Point(325, 68);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(234, 21);
+            this.comboBox1.TabIndex = 15;
+            // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::SVFDemoUI.Properties.Resources.Group_1;
             this.ClientSize = new System.Drawing.Size(704, 473);
+            this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.pnlbottom);
             this.Controls.Add(this.pnlTop);
             this.Controls.Add(this.pnlMenu);
-            this.Controls.Add(this.label2);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel6);
             this.Controls.Add(this.panel4);
@@ -444,7 +441,6 @@
             this.pnlTop.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -465,7 +461,6 @@
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Panel pnlMenu;
         private System.Windows.Forms.Panel pnlTop;
         private System.Windows.Forms.Button btnClose;
@@ -480,5 +475,6 @@
         private System.Windows.Forms.Label lblUsername;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnMinimize;
+        private System.Windows.Forms.ComboBox comboBox1;
     }
 }

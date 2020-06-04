@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace BusinessLogic
 {
-    public class Class1
+    class PlantType
     {
+
     }
 }
