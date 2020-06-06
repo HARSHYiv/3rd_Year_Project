@@ -9,7 +9,6 @@ namespace BusinessLogic
     public class Systems
     {
         private string systemID;
-
         public string SystemID { get => systemID; set => systemID = value; }
 
 

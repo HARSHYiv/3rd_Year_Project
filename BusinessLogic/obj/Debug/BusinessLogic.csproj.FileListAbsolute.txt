@@ -1,0 +1,2 @@
+C:\Users\ze2ma\Desktop\Vasity 3\Project 381\3rd_Year_Project\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\ze2ma\Desktop\Vasity 3\Project 381\3rd_Year_Project\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
