@@ -13,6 +13,7 @@ namespace BusinessLogic
         private int PlantfamilyID;
         private string Plantfamliy;
         private string Description;
+
         public List<PlantType> PlantTypes = new List<PlantType>();
 
         public int PlantfamilyID1 { get => PlantfamilyID; set => PlantfamilyID = value; }
@@ -33,11 +34,12 @@ namespace BusinessLogic
 
         public List<PlantType> GetPlantTypes()
         {
+            //get info from data handler 
             DataSet planttypes = new DataSet();
 
             foreach (DataRow plantType in planttypes.Tables["PlantTyoes_tbl"].Rows)
             {
-                PlantTypes.Add(new PlantType(plantType["PlantTypeID"], plantType["Name"], plantType["Description"]));
+                PlantTypes.Add(new PlantType(plantType["PlantTypeID"].ToString(), plantType["Name"].ToString(), plantType["Description"].ToString()));
 
             }
 

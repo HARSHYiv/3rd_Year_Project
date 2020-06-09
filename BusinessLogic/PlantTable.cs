@@ -19,6 +19,7 @@ namespace BusinessLogic
         private string Solution;
         private double PH;
         private int PlantFamilyID;
+
         public List<PlantTable> Plants = new List<PlantTable>();
 
         public string PlantID1 { get => PlantID; set => PlantID = value; }
@@ -52,12 +53,12 @@ namespace BusinessLogic
 
         public List<PlantTable> GetPlants()
         {
+            //get info from data handler 
             DataSet Planttable = new DataSet();
 
             foreach (DataRow Plant in Planttable.Tables["PlantTable"].Rows)
             {
-                Plants.Add(new PlantTable(Plant["PlantID"], Plant["Name"], Plant["ScientifiName"], Plant["Description"], Plant["LightIntensity"], Plant["PhotoPeriod"], Plant["Temprature"], Plant["Solution"], Plant["PH"], Plant["PlantFamilyID"]));
-
+                Plants.Add(new PlantTable(Plant["PlantID"].ToString(), Plant["Name"].ToString(), Plant["ScientifiName"].ToString(), Plant["Description"].ToString(), Plant["LightIntensity"].ToString(), Plant["PhotoPeriod"].ToString(), Plant["Temprature"].ToString(), Plant["Solution"].ToString(), Plant["PH"].ToString(), Plant["PlantFamilyID"].ToString()));
             }
             return Plants;
         }

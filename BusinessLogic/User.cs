@@ -18,6 +18,7 @@ namespace BusinessLogic
         private string EmailAddress;
         private string Password;
         private int typeID;
+
         public List<User> users = new List<User>();
         public int UserID1 { get => UserID; set => UserID = value; }
         public string Name1 { get => Name; set => Name = value; }
@@ -58,7 +59,7 @@ namespace BusinessLogic
             DataSet userdata = new  DataSet();
             foreach (DataRow user in userdata.Tables["User_tbl"].Rows)
             {
-                users.Add(new User(user["UserID"],user["Name"],user["Surname"],user["EmailAddress"],user["Password"],user["TypeID"]));
+                users.Add(new User(user["UserID"].ToString(), user["Name"].ToString(), user["Surname"].ToString(), user["EmailAddress"].ToString(), user["Password"].ToString(),user["TypeID"].ToString()));
 
             }
 

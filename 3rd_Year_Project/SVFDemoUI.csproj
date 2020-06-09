@@ -131,5 +131,11 @@
   <ItemGroup>
     <None Include="Resources\Register Background.png" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLogic\BusinessLogic.csproj">
+      <Project>{9bdb9a52-3704-437a-b09f-6fc62f62321c}</Project>
+      <Name>BusinessLogic</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
